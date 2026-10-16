@@ -84,12 +84,18 @@ Reference run: **R 4.5.1** (Windows 11 x64), **Bioconductor 3.22**, R's default 
 Rscript install_packages.R   # installs these versions (CRAN archive + Bioconductor 3.22)
 ```
 
-The full `sessionInfo()` of the reference run is in `session_info/run_record_*.txt`; a new run writes its own to `results/session_info.txt` and at the end of report 6.
 
 ---
 
 ## How to run
- Prior setwd() for the data files is recommended;
+1. Download the repository (Code → Download ZIP).
+   2. Put `GSE73103_beta.txt` and `13073_2015_225_MOESM1_ESM.docx` in the repository root (or one or two folders above it, or set `Sys.setenv(GSE73103_DATA_DIR = "<folder>")`).
+   3. Open R in the repository root (`setwd("<repository root>")`) and run:
+
+          source("install_packages.R")
+          source("run_all.R")
+
+   4. Compare `results/` with `expected_results/`.
 
 `run_all.R` renders the six reports **in order, in one R session** (`rmarkdown::render(..., envir = globalenv())`). Later reports use objects of earlier ones (`pheno`, `mvals_full`, `dosage_mat`, `ewas_summary`, …), so a single report cannot be knitted on its own in a fresh session; each report checks this and stops with a clear message.
 
