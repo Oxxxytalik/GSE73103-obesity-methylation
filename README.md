@@ -6,7 +6,7 @@ The project analyses the public dataset **GEO [GSE73103](https://www.ncbi.nlm.ni
 - weight category of each person: 268 Normal-weight, 70 Overweight, 17 Obese (BMI itself is not available);
 - genotypes of **52 obesity GWAS SNPs**.
 
-The code is written as **R Markdown reports** . 
+**The code is written as **R Markdown reports** . 
 ---
 
 
