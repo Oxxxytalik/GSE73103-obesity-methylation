@@ -30,7 +30,7 @@ The code is written as **R Markdown reports** .
 ├── data/
 │   └── voisin2015_additional_file4_pairs.csv   # the paper's 107 significant SNP-CpG pairs (Additional file 4)
 ├── expected_results/         # result tables of the reference run, for comparison
-└── session_info/             # reference run: input md5 checksums and run records (R version, RNG, sessionInfo)
+└── session_info/             # reference run: input md5 checksums
 ```
 
 
