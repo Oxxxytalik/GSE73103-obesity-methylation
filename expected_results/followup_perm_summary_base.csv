@@ -1,0 +1,2 @@
+"model","n_perm","n_pairs","obs_hits_per_snp_bh","expected_false_hits_per_snp_bh","est_fdr_of_per_snp_bh","lambda_gc"
+"base",1000,10343,3,7.881,1,1.03216641656994

@@ -1,0 +1,2 @@
+"n_samples","n_snps","n_pairs_tested","cis_window_bp","fdr_alpha","n_sig_global_qvalue","n_sig_per_snp_bh","n_snps_with_hit","lambda_gc","n_strand_flipped","n_palindromic","n_count_conflict"
+355,52,10343,5e+05,0.05,0,3,2,1.03216641656984,23,3,1

@@ -1,0 +1,201 @@
+"","ONTOLOGY","TERM","N","DE","P.DE","FDR"
+"GO:0050777","BP","negative regulation of immune response",212,21,0.000198107855649438,1
+"GO:0045824","BP","negative regulation of innate immune response",98,12,0.000793328421467451,1
+"GO:0002704","BP","negative regulation of leukocyte mediated immunity",75,10,0.00107424462658571,1
+"GO:1904761","BP","negative regulation of myofibroblast differentiation",6,3,0.00144870821611978,1
+"GO:0002832","BP","negative regulation of response to biotic stimulus",136,14,0.00165497308797034,1
+"GO:0033540","BP","fatty acid beta-oxidation using acyl-CoA oxidase",14,4,0.00350853002183931,1
+"GO:0032480","BP","negative regulation of type I interferon production",47,7,0.00382083940363131,1
+"GO:0060253","BP","negative regulation of glial cell proliferation",17,5,0.00386352487580509,1
+"GO:1990002","MF","methylglyoxal reductase (NADPH) (acetol producing) activity",2,2,0.00457376016185348,1
+"GO:0006004","BP","fucose metabolic process",17,4,0.00461022438676743,1
+"GO:1904760","BP","regulation of myofibroblast differentiation",9,3,0.00492024825594982,1
+"GO:0014009","BP","glial cell proliferation",58,9,0.00521976848517367,1
+"GO:0002707","BP","negative regulation of lymphocyte mediated immunity",65,8,0.00524671793456414,1
+"GO:0019317","BP","fucose catabolic process",10,3,0.00526019130188358,1
+"GO:0042354","BP","L-fucose metabolic process",10,3,0.00526019130188358,1
+"GO:0042355","BP","L-fucose catabolic process",10,3,0.00526019130188358,1
+"GO:0001976","BP","nervous system process involved in regulation of systemic arterial blood pressure",12,4,0.00635785435850403,1
+"GO:0009396","BP","folic acid-containing compound biosynthetic process",10,3,0.00639105532999675,1
+"GO:0050868","BP","negative regulation of T cell activation",141,13,0.00648337399646194,1
+"GO:0002695","BP","negative regulation of leukocyte activation",205,17,0.00721899621944738,1
+"GO:0032479","BP","regulation of type I interferon production",125,12,0.00736553730961632,1
+"GO:0032606","BP","type I interferon production",125,12,0.00736553730961632,1
+"GO:0021937","BP","cerebellar Purkinje cell-granule cell precursor cell signaling",2,2,0.00761090266301172,1
+"GO:2000742","BP","regulation of anterior head development",2,2,0.00829056954969372,1
+"GO:2000744","BP","positive regulation of anterior head development",2,2,0.00829056954969372,1
+"GO:0002035","BP","brain renin-angiotensin system",2,2,0.00837518060761844,1
+"GO:0051014","BP","actin filament severing",17,4,0.00900324394631515,1
+"GO:0051250","BP","negative regulation of lymphocyte activation",176,15,0.00904181322766387,1
+"GO:0022407","BP","regulation of cell-cell adhesion",500,37,0.00931457689495639,1
+"GO:0010903","BP","negative regulation of very-low-density lipoprotein particle remodeling",6,2,0.00947258191580856,1
+"GO:0043305","BP","negative regulation of mast cell degranulation",5,2,0.00978574221362409,1
+"GO:0002683","BP","negative regulation of immune system process",554,36,0.00984496766359821,1
+"GO:0060251","BP","regulation of glial cell proliferation",40,7,0.0101537210582021,1
+"GO:0045901","BP","positive regulation of translational elongation",4,2,0.0101816701112926,1
+"GO:0002698","BP","negative regulation of immune effector process",134,12,0.010267990093564,1
+"GO:0030175","CC","filopodium",100,12,0.010451718892111,1
+"GO:0035866","CC","alphav-beta3 integrin-PKCalpha complex",3,2,0.0108174236853444,1
+"GO:0000795","CC","synaptonemal complex",34,5,0.0128350639832644,1
+"GO:0099086","CC","synaptonemal structure",34,5,0.0128350639832644,1
+"GO:1903038","BP","negative regulation of leukocyte cell-cell adhesion",156,13,0.0129255850438394,1
+"GO:0051131","BP","chaperone-mediated protein complex assembly",22,4,0.0134552966899477,1
+"GO:0070922","BP","RISC complex assembly",10,3,0.0138614632724777,1
+"GO:0032608","BP","interferon-beta production",59,7,0.0143129761544021,1
+"GO:0032648","BP","regulation of interferon-beta production",59,7,0.0143129761544021,1
+"GO:0016409","MF","palmitoyltransferase activity",33,5,0.0151915916498451,1
+"GO:0031527","CC","filopodium membrane",17,4,0.0153774074989342,1
+"GO:0008417","MF","fucosyltransferase activity",13,3,0.0155658690760937,1
+"GO:0022408","BP","negative regulation of cell-cell adhesion",210,17,0.0155763109858157,1
+"GO:0060068","BP","vagina development",10,3,0.015961362463077,1
+"GO:0035106","BP","operant conditioning",4,2,0.0160660858249001,1
+"GO:0019751","BP","polyol metabolic process",104,10,0.0165775478010337,1
+"GO:0043022","MF","ribosome binding",101,10,0.0172761669946076,1
+"GO:0019706","MF","protein-cysteine S-palmitoyltransferase activity",23,4,0.0173990163009289,1
+"GO:0019707","MF","protein-cysteine S-acyltransferase activity",23,4,0.0173990163009289,1
+"GO:1905348","CC","endonuclease complex",37,5,0.017639463401364,1
+"GO:0010901","BP","regulation of very-low-density lipoprotein particle remodeling",8,2,0.0176503687944169,1
+"GO:0031348","BP","negative regulation of defense response",293,20,0.0176551265286394,1
+"GO:0021692","BP","cerebellar Purkinje cell layer morphogenesis",18,4,0.0180651217120126,1
+"GO:0001560","BP","regulation of cell growth by extracellular stimulus",3,2,0.0184604962213842,1
+"GO:0090207","BP","regulation of triglyceride metabolic process",46,6,0.0186852749509516,1
+"GO:0046959","BP","habituation",4,2,0.018882925050637,1
+"GO:0000228","CC","nuclear chromosome",220,17,0.0191645775832855,1
+"GO:0070193","BP","synaptonemal complex organization",27,4,0.0192344748102286,1
+"GO:0004861","MF","cyclin-dependent protein serine/threonine kinase inhibitor activity",13,3,0.0193344727362455,1
+"GO:1903037","BP","regulation of leukocyte cell-cell adhesion",380,27,0.0193896435322715,1
+"GO:0120015","MF","sterol transfer activity",32,5,0.0194811738332389,1
+"GO:0043335","BP","protein unfolding",12,3,0.0196389719422658,1
+"GO:0036065","BP","fucosylation",14,3,0.0199630301335439,1
+"GO:0060473","CC","cortical granule",6,2,0.0201555220939749,1
+"GO:0046460","BP","neutral lipid biosynthetic process",46,6,0.0201664608873704,1
+"GO:0046463","BP","acylglycerol biosynthetic process",46,6,0.0201664608873704,1
+"GO:0007159","BP","leukocyte cell-cell adhesion",417,29,0.0202705698637937,1
+"GO:0098586","BP","cellular response to virus",71,7,0.0204341544329822,1
+"GO:0010989","BP","negative regulation of low-density lipoprotein particle clearance",17,3,0.0204480031446558,1
+"GO:0042559","BP","pteridine-containing compound biosynthetic process",15,3,0.0204981704132428,1
+"GO:0030478","CC","actin cap",4,2,0.0207074099424655,1
+"GO:0007077","BP","mitotic nuclear membrane disassembly",11,3,0.0209620760377539,1
+"GO:0010896","BP","regulation of triglyceride catabolic process",14,3,0.0210913319699304,1
+"GO:0051348","BP","negative regulation of transferase activity",98,10,0.0214772397920357,1
+"GO:0036446","BP","myofibroblast differentiation",14,3,0.0215987001767341,1
+"GO:0033235","BP","positive regulation of protein sumoylation",13,3,0.0216906765452587,1
+"GO:0016605","CC","PML body",103,11,0.021855945303099,1
+"GO:0036109","BP","alpha-linolenic acid metabolic process",14,3,0.0219426732107792,1
+"GO:0030291","MF","protein serine/threonine kinase inhibitor activity",54,7,0.0221134371166239,1
+"GO:0047603","MF","acetoacetyl-CoA hydrolase activity",1,1,0.0225977291093629,1
+"GO:0047994","MF","hydroxymethylglutaryl-CoA hydrolase activity",1,1,0.0225977291093629,1
+"GO:0021696","BP","cerebellar cortex morphogenesis",35,6,0.0227076831979621,1
+"GO:0060101","BP","negative regulation of phagocytosis, engulfment",1,1,0.0227998735562901,1
+"GO:1902566","BP","regulation of eosinophil activation",1,1,0.0227998735562901,1
+"GO:1902567","BP","negative regulation of eosinophil activation",1,1,0.0227998735562901,1
+"GO:1905154","BP","negative regulation of membrane invagination",1,1,0.0227998735562901,1
+"GO:0006636","BP","unsaturated fatty acid biosynthetic process",56,6,0.0240002177161894,1
+"GO:0090208","BP","positive regulation of triglyceride metabolic process",23,4,0.0240304627233796,1
+"GO:0060749","BP","mammary gland alveolus development",19,4,0.024292083757804,1
+"GO:0061377","BP","mammary gland lobule development",19,4,0.024292083757804,1
+"GO:0002840","BP","regulation of T cell mediated immune response to tumor cell",16,3,0.0243229189979816,1
+"GO:0015485","MF","cholesterol binding",53,7,0.0243830857110252,1
+"GO:2001226","BP","negative regulation of chloride transport",1,1,0.0246007616697029,1
+"GO:0032102","BP","negative regulation of response to external stimulus",424,28,0.0248080535345155,1
+"GO:0048371","BP","lateral mesodermal cell differentiation",4,2,0.0258845949571503,1
+"GO:0002424","BP","T cell mediated immune response to tumor cell",17,3,0.0259761496366459,1
+"GO:1990247","MF","N6-methyladenosine-containing RNA reader activity",11,3,0.0262645669527471,1
+"GO:0030272","MF","5-formyltetrahydrofolate cyclo-ligase activity",1,1,0.0264802098607138,1
+"GO:0046657","BP","folic acid catabolic process",1,1,0.0264802098607138,1
+"GO:1904666","BP","regulation of ubiquitin protein ligase activity",15,3,0.0265309358500333,1
+"GO:0045959","BP","negative regulation of complement activation, classical pathway",7,2,0.0267529554273469,1
+"GO:0043178","MF","alcohol binding",90,10,0.0269674113488268,1
+"GO:1905172","MF","RISC complex binding",5,2,0.0270282765519599,1
+"GO:0050866","BP","negative regulation of cell activation",228,17,0.027076842541057,1
+"GO:0032957","BP","inositol trisphosphate metabolic process",12,3,0.0273753542154763,1
+"GO:0006491","BP","N-glycan processing",22,4,0.0277247282498741,1
+"GO:0042026","BP","protein refolding",29,4,0.0282882164630191,1
+"GO:0090188","BP","negative regulation of pancreatic juice secretion",4,2,0.0290312240592679,1
+"GO:0021702","BP","cerebellar Purkinje cell differentiation",12,3,0.0296224664567879,1
+"GO:1990430","MF","extracellular matrix protein binding",6,2,0.0296411782218262,1
+"GO:0070328","BP","triglyceride homeostasis",45,5,0.0297670578606488,1
+"GO:0004912","MF","interleukin-3 receptor activity",1,1,0.0298270212454475,1
+"GO:0034121","BP","regulation of toll-like receptor signaling pathway",37,5,0.0298658143719438,1
+"GO:0034382","BP","chylomicron remnant clearance",7,2,0.0307074621744964,1
+"GO:0019432","BP","triglyceride biosynthetic process",39,5,0.0308132538913156,1
+"GO:0042102","BP","positive regulation of T cell proliferation",102,9,0.0308501922843648,1
+"GO:0000332","MF","template for synthesis of G-rich strand of telomere DNA activity",1,1,0.0310059400194465,1
+"GO:0000497","MF","DNA template activity",1,1,0.0310059400194465,1
+"GO:0050671","BP","positive regulation of lymphocyte proliferation",146,12,0.031043503876054,1
+"GO:0070665","BP","positive regulation of leukocyte proliferation",165,13,0.0316050303855271,1
+"GO:0097476","BP","spinal cord motor neuron migration",4,2,0.0317474533765191,1
+"GO:0090070","BP","positive regulation of ribosome biogenesis",1,1,0.0318286783280076,1
+"GO:0030450","BP","regulation of complement activation, classical pathway",8,2,0.0319793444391803,1
+"GO:0055090","BP","acylglycerol homeostasis",46,5,0.0320498650436459,1
+"GO:1901386","BP","negative regulation of voltage-gated calcium channel activity",6,2,0.0322959297767975,1
+"GO:0048550","BP","negative regulation of pinocytosis",5,2,0.0322962007366921,1
+"GO:0072686","CC","mitotic spindle",184,14,0.0325642906891038,1
+"GO:0170057","MF","RNA ligase (GTP) activity",1,1,0.0326206061039948,1
+"GO:0180034","BP","co-transcriptional lncRNA 3' end processing, cleavage and polyadenylation pathway",1,1,0.0327415878675656,1
+"GO:0006469","BP","negative regulation of protein kinase activity",75,8,0.0328723416640656,1
+"GO:0080129","BP","proteasome core complex assembly",1,1,0.0331931782509972,1
+"GO:1903775","BP","regulation of DNA double-strand break processing",1,1,0.0332740163107634,1
+"GO:0016417","MF","S-acyltransferase activity",28,4,0.0334090510333231,1
+"GO:0000794","CC","condensed nuclear chromosome",74,7,0.033672268559559,1
+"GO:0032946","BP","positive regulation of mononuclear cell proliferation",148,12,0.0339706304420852,1
+"GO:0072687","CC","meiotic spindle",17,3,0.0341572987602297,1
+"GO:0032559","MF","adenyl ribonucleotide binding",1447,90,0.0343129952342988,1
+"GO:0004733","MF","pyridoxamine phosphate oxidase activity",1,1,0.0344006391004819,1
+"GO:1904247","BP","positive regulation of polynucleotide adenylyltransferase activity",1,1,0.0347536071652425,1
+"GO:0002755","BP","MyD88-dependent toll-like receptor signaling pathway",19,3,0.0347666539283541,1
+"GO:0033882","MF","choloyl-CoA hydrolase activity",2,1,0.0348348173367858,1
+"GO:0052815","MF","medium-chain fatty acyl-CoA hydrolase activity",2,1,0.0348348173367858,1
+"GO:0033634","BP","positive regulation of cell-cell adhesion mediated by integrin",6,2,0.0350216732737836,1
+"GO:0036325","BP","vascular endothelial growth factor receptor-3 signaling pathway",1,1,0.0354360889742718,1
+"GO:0005652","CC","nuclear lamina",13,3,0.03545245189278,1
+"GO:1902564","BP","negative regulation of neutrophil activation",8,2,0.0354811595256948,1
+"GO:0046458","BP","hexadecanal metabolic process",1,1,0.0355410567836922,1
+"GO:0046577","MF","long-chain-alcohol oxidase activity",1,1,0.0355410567836922,1
+"GO:0003147","BP","neural crest cell migration involved in heart formation",1,1,0.0355706363821945,1
+"GO:0106289","BP","negative regulation of deadenylation-dependent decapping of nuclear-transcribed mRNA",1,1,0.0360061385264464,1
+"GO:0160102","MF","tRNA (guanine(10)-N2)-methyltransferase activity",1,1,0.0360879500376413,1
+"GO:0030160","MF","synaptic receptor adaptor activity",4,2,0.0361271915592365,1
+"GO:0034125","BP","negative regulation of MyD88-dependent toll-like receptor signaling pathway",2,1,0.0362840929773743,1
+"GO:2000042","BP","negative regulation of double-strand break repair via homologous recombination",26,4,0.0362892995853299,1
+"GO:0009101","BP","glycoprotein biosynthetic process",287,21,0.0369726315555527,1
+"GO:1904515","BP","positive regulation of TORC2 signaling",6,2,0.0373018503539135,1
+"GO:0001100","BP","negative regulation of exit from mitosis",1,1,0.037485638286246,1
+"GO:0022037","BP","metencephalon development",113,12,0.0376789670613407,1
+"GO:0048369","BP","lateral mesoderm morphogenesis",5,2,0.0378977497192239,1
+"GO:0048370","BP","lateral mesoderm formation",5,2,0.0378977497192239,1
+"GO:0010985","BP","negative regulation of lipoprotein particle clearance",22,3,0.0392960352284795,1
+"GO:0030554","MF","adenyl nucleotide binding",1539,94,0.0393493270401174,1
+"GO:0047941","MF","glucuronolactone reductase activity",1,1,0.039584007930776,1
+"GO:0001069","MF","regulatory region RNA binding",1,1,0.0400539783177288,1
+"GO:0033679","MF","3'-5' DNA/RNA helicase activity",1,1,0.0400539783177288,1
+"GO:0039695","BP","DNA-templated viral transcription",1,1,0.0400539783177288,1
+"GO:0006449","BP","regulation of translational termination",8,2,0.0401349955571547,1
+"GO:0030731","MF","guanidinoacetate N-methyltransferase activity",1,1,0.0403712612039669,1
+"GO:0021694","BP","cerebellar Purkinje cell layer formation",14,3,0.0403743370339656,1
+"GO:0050863","BP","regulation of T cell activation",388,26,0.040683374886153,1
+"GO:0002456","BP","T cell mediated immunity",130,10,0.0407863127637116,1
+"GO:0071830","BP","triglyceride-rich lipoprotein particle clearance",8,2,0.0414734152076935,1
+"GO:0032688","BP","negative regulation of interferon-beta production",17,3,0.0414736578249232,1
+"GO:0034458","MF","3'-5' RNA helicase activity",7,2,0.0418206351782398,1
+"GO:1904980","BP","positive regulation of endosome organization",1,1,0.0424098650083483,1
+"GO:0043647","BP","inositol phosphate metabolic process",39,5,0.0425410207580923,1
+"GO:0072702","BP","response to methyl methanesulfonate",1,1,0.0425699621997304,1
+"GO:0072703","BP","cellular response to methyl methanesulfonate",1,1,0.0425699621997304,1
+"GO:0010898","BP","positive regulation of triglyceride catabolic process",8,2,0.0428269626132642,1
+"GO:0036285","BP","SAGA complex assembly",1,1,0.0430262455731111,1
+"GO:0035455","BP","response to interferon-alpha",20,3,0.0431653090768391,1
+"GO:1903422","BP","negative regulation of synaptic vesicle recycling",1,1,0.0434711998183286,1
+"GO:1904050","BP","positive regulation of spontaneous neurotransmitter secretion",1,1,0.0434711998183286,1
+"GO:1905302","BP","negative regulation of macropinocytosis",1,1,0.0434711998183286,1
+"GO:1902555","CC","endoribonuclease complex",32,4,0.0437524652578149,1
+"GO:0042398","BP","modified amino acid biosynthetic process",45,5,0.0439005358955967,1
+"GO:0005777","CC","peroxisome",146,11,0.0439830886847938,1
+"GO:0042579","CC","microbody",146,11,0.0439830886847938,1
+"GO:0002887","BP","negative regulation of myeloid leukocyte mediated immunity",10,2,0.0440721416782256,1
+"GO:0000280","BP","nuclear division",441,28,0.0445023227189054,1
+"GO:0042288","MF","MHC class I protein binding",17,3,0.0447362084203745,1
+"GO:1902455","BP","negative regulation of stem cell population maintenance",24,4,0.0450378133263353,1
+"GO:0021587","BP","cerebellum morphogenesis",41,6,0.0451131839304978,1
+"GO:0036037","BP","CD8-positive, alpha-beta T cell activation",28,4,0.0452207148361726,1
+"GO:0047620","MF","acylglycerol kinase activity",1,1,0.0453394479775393,1
